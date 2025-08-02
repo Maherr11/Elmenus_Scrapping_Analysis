@@ -27,7 +27,7 @@ The aim is to explore trends in **delivery times**, **customer ratings**, and **
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Pandas** – for data cleaning & manipulation  
